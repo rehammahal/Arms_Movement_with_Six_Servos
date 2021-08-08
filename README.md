@@ -1,4 +1,4 @@
-# Arm_movement_with_six_servos
+# Arms_Movement_with_Six_Servos
 
 في هذة المهمة تطلب مني ان اصمم دائرة كهربائية للتحكم في حركة الأذرع الخاصة بروبوت الترحيب
 
